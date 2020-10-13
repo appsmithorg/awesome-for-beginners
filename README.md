@@ -178,14 +178,14 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted) _(label: help wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
-- [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
+- [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundamentals of dynamic programming.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _(label: good first issue)_ <br>
 A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
 - [json-editor](https://github.com/json-editor/json-editor/labels/good%20first%20issue) _(label: good first issue)_ <br>
 JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Habitica](https://github.com/HabitRPG/habitica/labels/good%20first%20issue) _(label: good first issue)_ <br>
-Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. [Guidance for contributing here](https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths) (mongo, express, vue, node stack for webapp)
-- [reactjs.org](https://github.com/reactjs/reactjs.org/labels/good%20first%20issue) _(label: good first issue)_ <br> The documenation website for reactjs
+Habitica is a gamified task manager, web app and android/ios app,with a really wonderful atmosphere. [Guidance for contributing here](https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths) (mongo, express, vue, node stack for web app)
+- [reactjs.org](https://github.com/reactjs/reactjs.org/labels/good%20first%20issue) _(label: good first issue)_ <br> The documentation website for reactjs
 - [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
@@ -266,7 +266,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
 - [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
-- [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
+- [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Analysis of Bayesian Models.
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
